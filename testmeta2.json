@@ -1,7 +1,7 @@
 {
-  "name": "Example Token",
+  "name": "Example Token renamed",
   "symbol": "TOKK",
-  "description": "test token",
+  "description": "test token renamed",
   "image": "https://raw.githubusercontent.com/gaintokk/gain/refs/heads/main/28a9c375-a997-41cc-aacf-e71d8e11230c.png",
   "extensions": {
     "website": "https://google.fr",
